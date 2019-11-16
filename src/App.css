@@ -1,12 +1,5 @@
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -17,6 +10,25 @@
   color: white;
 }
 
+.App-logo {
+  height: 40vmin;
+}
+
 .App-link {
   color: #09d3ac;
+}
+
+iframe {
+  height: 100%;
+  width: 100%;
+  border: none;
+}
+
+.modalHead {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.modalBody {
+  height: 100%;
 }

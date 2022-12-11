@@ -11,7 +11,7 @@
     "@types/react-modal": "^3.10.0",
     "@types/react-router-dom": "^5.1.2",
     "@types/styled-components": "^4.1.22",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-modal": "^3.11.1",
